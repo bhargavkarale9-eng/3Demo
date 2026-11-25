@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "Add new file"
+git add remote origin url
+git branch
+git push -u origin master
+
+update file
+git status
+git add .
+git commit -m "existing file"
+git push origin master
+
